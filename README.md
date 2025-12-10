@@ -1,0 +1,1 @@
+pyzbar-windows-x64
